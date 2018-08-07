@@ -1,4 +1,5 @@
 import time
+from tkinter import *
 from datetime import datetime as dt
 
 hosts_path=r"C:\Windows\System32\drivers\etc\hosts"
